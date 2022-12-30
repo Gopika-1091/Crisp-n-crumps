@@ -2,3 +2,4 @@
 
 A web app for food delivery service.
 Connecting the hotels to the customers.
+Frrontend only
